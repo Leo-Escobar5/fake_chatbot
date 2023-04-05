@@ -27,7 +27,10 @@
                 android:padding="16dp"
                 android:text="Hola"/>
 
+
+
         </RelativeLayout>
+
 
         <RelativeLayout
             android:id="@+id/user_container"
